@@ -6,25 +6,25 @@
     animales[3] =  "DOG" 
     animales[4] =  "LION" 
     animales[5] =  "KANGAROO" 
-
+    animales[6] =  "PIG" 
 
     var animalesURLI= [];
-    animalesURLI[0] = "img/animales/izquierda/HORSE.png"
-    animalesURLI[1] = "img/animales/izquierda/WOLF.png"
-    animalesURLI[2] = "img/animales/izquierda/ANTELOPE.png"
-    animalesURLI[3] = "img/animales/izquierda/DOG.png"
-    animalesURLI[4] = "img/animales/izquierda/LION.png"
-    animalesURLI[5] = "img/animales/izquierda/KANGAROO.png"
-
+    animalesURLI[0] = "IMG/Animales/Izquierda/HORSE.png"
+    animalesURLI[1] = "IMG/Animales/Izquierda/WOLF.png"
+    animalesURLI[2] = "IMG/Animales/Izquierda/ANTELOPE.png"
+    animalesURLI[3] = "IMG/Animales/Izquierda/DOG.png"
+    animalesURLI[4] = "IMG/Animales/Izquierda/LION.png"
+    animalesURLI[5] = "IMG/Animales/Izquierda/KANGAROO.png"
+    animalesURLI[6] = "IMG/Animales/Izquierda/PIG.png"
 
     var animalesURLD= [];
-    animalesURLD[0] = "img/animales/derecha/HORSE.png"
-    animalesURLD[1] = "img/animales/derecha/WOLF.png"
-    animalesURLD[2] =  "img/animales/derecha/ANTELOPE.png"
-    animalesURLD[3] = "img/animales/derecha/DOG.png"
-    animalesURLD[4] = "img/animales/derecha/LION.png"
-    animalesURLD[5] = "img/animales/derecha/KANGAROO.png"
-
+    animalesURLD[0] = "IMG/Animales/Derecha/HORSE.png"
+    animalesURLD[1] = "IMG/Animales/Derecha/WOLF.png"
+    animalesURLD[2] =  "IMG/Animales/Derecha/ANTELOPE.png"
+    animalesURLD[3] = "IMG/Animales/Derecha/DOG.png"
+    animalesURLD[4] = "IMG/Animales/Derecha/LION.png"
+    animalesURLD[5] = "IMG/Animales/Derecha/KANGAROO.png"
+    animalesURLD[6] = "IMG/Animales/Derecha/PIG.png"
 function generar(){
 
     var ladoI;
